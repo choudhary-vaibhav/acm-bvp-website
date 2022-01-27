@@ -41,8 +41,8 @@ export const TeamData = {
       key: "5",
       name: "Vaibhav Choudhary",
       position: "Membership Chairperson ACM",
-      linkedInURL: "",
-      githubURL: "",
+      linkedInURL: "https://www.linkedin.com/in/vaibhav-choudhary-054907202/",
+      githubURL: "https://github.com/choudhary-vaibhav",
       twitterURL: "",
       displayPicSrc: require("../assets/display-pics/VaibhavChoudhary.jpeg")
     },
@@ -59,9 +59,9 @@ export const TeamData = {
       key: "7",
       name: "Mehak Chadha",
       position: "Chairperson ACM-W",
-      linkedInURL: "https://www.linkedin.com/in/bhumika-manocha-762128168",
-      githubURL: "https://github.com/BhumikaManocha",
-      twitterURL: "https://twitter.com/BhumikaManocha",
+      linkedInURL: "",
+      githubURL: "",
+      twitterURL: "",
       displayPicSrc: require("../assets/display-pics/displayPicTemplate.png")
     },
     {
