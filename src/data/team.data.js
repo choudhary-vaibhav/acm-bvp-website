@@ -3,7 +3,7 @@ export const TeamData = {
     {
       key: "1",
       name: "Arushi Gupta",
-      position: "Chairperson ACM-W",
+      position: "Chairperson ACM",
       linkedInURL: "https://in.linkedin.com/in/arushi-gupta-050976181",
       githubURL: "https://github.com/arushigupta07",
       twitterURL: "https://twitter.com/ArushiG02608584",
