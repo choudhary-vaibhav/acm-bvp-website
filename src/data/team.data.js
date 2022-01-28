@@ -59,7 +59,7 @@ export const TeamData = {
       key: "7",
       name: "Mehak Chadha",
       position: "Chairperson ACM-W",
-      linkedInURL: "",
+      linkedInURL: "https://www.linkedin.com/in/mehak-chadha-b9ab3820a",
       githubURL: "",
       twitterURL: "",
       displayPicSrc: require("../assets/display-pics/displayPicTemplate.png")
