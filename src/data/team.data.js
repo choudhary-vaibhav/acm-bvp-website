@@ -62,7 +62,7 @@ export const TeamData = {
       linkedInURL: "https://www.linkedin.com/in/mehak-chadha-b9ab3820a",
       githubURL: "",
       twitterURL: "",
-      displayPicSrc: require("../assets/display-pics/displayPicTemplate.png")
+      displayPicSrc: require("../assets/display-pics/Mehak.jpeg")
     },
     {
       key: "8",
